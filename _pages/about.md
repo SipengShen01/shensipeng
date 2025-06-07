@@ -17,7 +17,7 @@ I am a postgraduate student at School of Cyber Science and Engineering, Wuhan Un
 ### Publications
 
 
-### Honor
+### Honor And Awards
 - **National Scholarship.**
 - **The First Class Scholarship of Noreastern University.**
 - **Excellent Student of Noreastern University.**
