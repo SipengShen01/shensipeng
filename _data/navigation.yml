@@ -17,10 +17,10 @@ main:
   - title: "Project Experience"
     url: /teaching/    
     
-
+  - title: "Honor And Award"
+    url: /markdown/
     
   # - title: "CV"
   #   url: /cv-json/
     
-  #- title: "Guide"
-    #url: /markdown/
+
