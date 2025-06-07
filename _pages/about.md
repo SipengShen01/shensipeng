@@ -14,10 +14,10 @@ I am a postgraduate student at School of Cyber Science and Engineering, Wuhan Un
 - **Sept. 2024 - Jun. 2027**  
   M.S., Wuhan University
 
-### Publications
+### Selected Publications
 
 
-### Honor And Awards
+### Selected Honor And Awards
 - **National Scholarship.**
 - **The First Class Scholarship of Noreastern University.**
 - **Excellent Student of Noreastern University.**
