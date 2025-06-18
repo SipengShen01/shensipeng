@@ -19,6 +19,16 @@ I am a postgraduate student at School of Cyber Science and Engineering, Wuhan Un
 **Sipeng Shen†**, Yunming Zhang†, Dengpan Ye*, Xiuwen Shi, Long Tang, Haoran Duan, Yueyun Shang, Zhihong Tian  
 **IEEE Transactions on Multimedia**, 2025 (Accepted).
 
+**Three-in-One: Robust Enhanced Universal Transferable Anti-Facial Retrieval in Online Social Networks**  
+Yunna Lv , Long Tang , Dengpan Ye, Jiacheng Deng, Yiheng He ,and **Sipeng Shen** 
+**IEEE Transactions on Information Forensics and Security**, 2025 (Accepted).
+
+**StyleMark: A Robust Watermarking Method for Art Style Images Against Black-Box Arbitrary Style Transfer**  
+**Under Review.
+
+**Double Privacy Guard: Robust Traceable Adversarial Watermarking against Face RecognitionPr**  
+**Under Review.
+
 ### Selected Honor And Awards
 - **National Scholarship.**
 - **The First Class Scholarship of Noreastern University.**
