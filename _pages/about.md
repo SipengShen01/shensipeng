@@ -26,7 +26,7 @@ Yunna Lv , Long Tang , Dengpan Ye, Jiacheng Deng, Yiheng He ,and **Sipeng Shen**
 **StyleMark: A Robust Watermarking Method for Art Style Images Against Black-Box Arbitrary Style Transfer**  
 **Under Review.
 
-**Double Privacy Guard: Robust Traceable Adversarial Watermarking against Face RecognitionPr**  
+**Double Privacy Guard: Robust Traceable Adversarial Watermarking against Face Recognition**  
 **Under Review.
 
 ### Selected Honor And Awards
